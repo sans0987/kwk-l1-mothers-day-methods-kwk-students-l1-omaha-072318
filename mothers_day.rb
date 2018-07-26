@@ -5,5 +5,4 @@ def mothers_day(name)
 end 
 mothers_day("Sis")
 mothers_day("Grandma")
-mothers_day("Mom")
 mothers_day("Tracy")
