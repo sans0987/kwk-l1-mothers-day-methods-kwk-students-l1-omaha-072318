@@ -3,6 +3,6 @@
 def mothers_day{name}
   puts "Happy Mother's Day, #{name}!"
 end 
-mothers_day{sis}.capitilize
-mothers_day{grandma}.capitilize
-mothers_day{mom}.capitilize
+mothers_day{sis}
+mothers_day{grandma}
+mothers_day{mom}
