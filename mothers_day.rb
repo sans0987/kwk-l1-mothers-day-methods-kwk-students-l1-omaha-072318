@@ -3,6 +3,6 @@
 def mothers_day{name}
   puts "Happy Mother's Day, #{name}!"
 end 
-mothers_day{sis}
-mothers_day{grandma}
-mothers_day{mom}
+mothers_day{"Sis"}
+mothers_day{"Grandma"}
+mothers_day{"Mom"}
